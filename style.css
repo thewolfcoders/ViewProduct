@@ -1,0 +1,126 @@
+#s1
+{
+    width: 100%;
+    background-color: bisque;
+    padding-bottom: 60px;
+    border-bottom: 2px solid orange;
+}
+#s1 h1
+{
+    font-style: oblique;
+    font-size: 40px;
+    font-weight: 500;
+    padding:110px 0px 0px 0px;
+}
+
+#s1 p
+{
+     font-style: oblique;
+    font-size: 20px;
+    font-weight: 300;
+   
+}
+
+#s1 img{
+    
+    padding-top: 100px;
+}
+
+#s1 a
+{
+    display: inline-block;
+    color: white;
+    background-color: orange;
+    padding: 8px 8px 8px 8px;
+    border-radius: 5px;
+    margin: 10px;
+    text-decoration: none;
+}
+
+#s1 a:hover
+{
+   background-color: darkorange;
+}
+
+#s2
+{
+    width: 100%;
+    background-color: whitesmoke;
+    padding-bottom: 60px;
+    border-bottom: 2px solid gray;
+}
+
+#s2 h1
+{
+    font-style:oblique;
+    font-size: 36px;
+    font-weight: 500;
+    padding:60px 0px 0px 0px;
+     margin-left: 50px;   
+}
+
+#s2 p
+{
+     font-style: oblique;
+     font-size: 18px;
+     font-weight: 300;
+     margin-left: 60px;   
+}
+
+#s2 img{
+    
+    padding: 100px 0px 0px 0px;
+}
+#s3
+{
+    padding: 10px 0px 0px 35px;
+}
+
+#s3 p
+{
+    
+}
+#s4
+{
+width: 100%;
+background-color: white;
+}
+#s4 h3
+{
+    font-family:serif;
+    font-size: 35;
+}
+#s4 h2
+{
+    font-family:serif;
+    font-size: 35;
+    font-weight:800;
+    word-spacing:2;
+   
+}
+#s5
+{
+margin-bottom: 50px;
+}
+#s6 h3
+{
+    font-family:serif;
+    font-size: 35;
+}
+#s6 h2
+{
+    font-family:serif;
+    font-size: 35;
+    font-weight:800;
+    word-spacing:2;
+   
+}
+.box2:hover
+{
+    box-shadow: -1px 2px 28px #888888;
+}
+
+.box3:hover
+{
+    box-shadow: -1px 2px 28px #888888;
+}
